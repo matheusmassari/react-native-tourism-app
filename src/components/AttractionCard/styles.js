@@ -5,6 +5,7 @@ const { width } = Dimensions.get('window');
 const styles = StyleSheet.create({
     card: {
         marginRight: 16,
+        marginBottom: 16,
         borderWidth: 1,
         padding: 4,
         borderColor: '#e2e2e2',
